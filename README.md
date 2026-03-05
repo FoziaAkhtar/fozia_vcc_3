@@ -1,4 +1,4 @@
-# 👩‍💻 git add Shah Web Developers Inc.
+# 👩‍💻 Shah Web Developers Inc.
 
 Welcome to **Shah Web Developers Inc.** 🚀
 
